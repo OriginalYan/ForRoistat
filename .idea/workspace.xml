@@ -15,7 +15,7 @@
     <session id="405855978">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.opened" value="2" />
@@ -238,7 +238,7 @@
       <workItem from="1543997298946" duration="21610000" />
       <workItem from="1544076842807" duration="26364000" />
       <workItem from="1544643778015" duration="381000" />
-      <workItem from="1544644201950" duration="4228000" />
+      <workItem from="1544644201950" duration="4479000" />
     </task>
     <task id="LOCAL-00001" summary="создал индексный файл для проверки работы скрипта на правильность замены знаков препинания">
       <created>1544648367348</created>
@@ -251,7 +251,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63798000" />
+    <option name="totallyTimeSpent" value="64049000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -264,7 +264,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09768637" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
