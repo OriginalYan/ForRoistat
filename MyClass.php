@@ -6,7 +6,6 @@
 
      public function PrepReverse($str){
          if (!is_null($str)){
-             $str = mb_convert_encoding($str, 'cp1251', 'utf-8');
              $new_str = $str;
 
              foreach ($this->mas_prep_get as $key => $value) {
